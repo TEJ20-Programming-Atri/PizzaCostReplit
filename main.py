@@ -37,4 +37,4 @@ tax = subtotal * HST
 total = subtotal + tax
 
 # Display Total cost to the user
-print(f"the total cost of the pizza is ${total:.2f}")
+print(f"the total cost of the pizza is ${total:.2f}!")
